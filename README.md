@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hii There!!
 Welcome to my GitHub profile! I'm Manas Singhal, a dedicated web developer on a journey of continuous learning and growth. With a passion for crafting elegant and functional web solutions, I thrive on exploring new technologies, expanding my skill set, and collaborating on exciting projects. My strong problem-solving capabilities drive me to tackle challenges head-on, ensuring innovative and efficient solutions. Let's build something amazing together!
 
 
